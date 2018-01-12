@@ -1,0 +1,64 @@
+{
+  "assetsByChunkName": {
+    "path---besutkode": [
+      "path---besutkode-959d318ee8fb75cc86b8.js",
+      "path---besutkode-959d318ee8fb75cc86b8.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-9dc31e882d6a60fc699a.js",
+      "component---src-pages-index-js-9dc31e882d6a60fc699a.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-65658a330ee5ff58be36.js",
+      "component---src-templates-blog-post-js-65658a330ee5ff58be36.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-528da934b53f56dc460b.js",
+      "component---src-layouts-index-js-528da934b53f56dc460b.js.map"
+    ],
+    "path---cita-cita": [
+      "path---cita-cita-40a58550565ec2a9284b.js",
+      "path---cita-cita-40a58550565ec2a9284b.js.map"
+    ],
+    "path---index": [
+      "path---index-83cf8e6a02a026816076.js",
+      "path---index-83cf8e6a02a026816076.js.map"
+    ],
+    "commons": [
+      "commons-e7bc6d2db32ecfc289ee.js",
+      "build-js-styles.css",
+      "commons-e7bc6d2db32ecfc289ee.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-1371099abf0d3a40eab7.js",
+      "build-js-styles.css",
+      "app-1371099abf0d3a40eab7.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---last-day-in-vanitee": [
+      "path---last-day-in-vanitee-9da53ff1eb0f2c84a049.js",
+      "path---last-day-in-vanitee-9da53ff1eb0f2c84a049.js.map"
+    ],
+    "path---little-disaster": [
+      "path---little-disaster-09534f7f43f519a25969.js",
+      "path---little-disaster-09534f7f43f519a25969.js.map"
+    ],
+    "path---machine-learning": [
+      "path---machine-learning-b066179c4c502ba40cef.js",
+      "path---machine-learning-b066179c4c502ba40cef.js.map"
+    ]
+  }
+}
